@@ -17,4 +17,4 @@ Differentiate between Statically typed and Dynamically typed programming languag
 
 Differentiate between the JavaScript data types ‘null’ and ‘undefined' - 'null' in Javascript is an assigned value. It represents the absence of any object value. e.g let nullVariable = null.
 
-- 'Undefined' is a variable that has been declared but has not being assigned a value. e.g let undefinedVariable;
+---'Undefined' is a variable that has been declared but has not being assigned a value. e.g let undefinedVariable;
